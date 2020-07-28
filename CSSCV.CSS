@@ -1,0 +1,83 @@
+.intitulé{
+	text-align: center;
+}
+
+.un{
+	text-align: justify;
+}
+
+h1{
+	font-weight: bold;
+	font-size:60px;
+
+}
+.nom{
+	font-size: 35px
+}
+.moi {
+	width: 200px;
+	height: 200px;
+	border-radius: 150px 150px 150px 150px;
+	margin-top: 25px;
+	margin-left: -100px;
+
+	
+}
+
+
+img.taille1{
+	width:30px;
+	height: 30px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.taille{
+	width:30px;
+	height: 30px;
+	vertical-align:middle
+	}
+	
+
+span{
+	color:grey;
+}
+.informations{
+	font-size: 20px;
+	background-color: rgba(63,191,127,1);
+	text-align: center;
+
+	}
+
+.bordure{
+	background-color: rgba(63,191,127,1);
+	 display:flex;
+	justify-content: space-around;
+
+	
+}
+
+.un{
+		background-color: rgba(187,250,187,0.5);
+}
+.formation{
+	padding-left: 10px;
+}
+
+.global{
+   display:flex;
+	justify-content: space-between;
+	background-color: rgba(187,250,187,0.5);
+
+	}
+.section{
+	display:flex;
+}
+.liste {
+	list-style:none;
+}
+.skills {
+	text-align: center;
+}
+
+
